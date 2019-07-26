@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TheWeather</string>
+    <string name="input_text">Introduce el nombre de la ciudad a buscar</string>
+    <string name="buscar">Buscar</string>
+</resources>
